@@ -1,0 +1,13 @@
+dist/
+*.deb
+*.zip
+__pycache__/
+*.py[cod]
+.env
+*.log
+*.ini
+*.conf
+!debian-package/DEBIAN/**
+!debian-package/etc/**
+.vscode/
+.idea/
